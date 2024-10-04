@@ -1,6 +1,5 @@
-Here’s a comprehensive README template for your Vyom ERC20 token project that you can use on GitHub. Feel free to customize it to suit your specific project needs.
 
-```markdown
+
 # Vyom Token
 
 Vyom is an ERC20 token deployed on the Holesky testnet. This project showcases the implementation of a standard ERC20 token with basic functionalities, allowing users to transfer tokens, check balances, and approve spending allowances.
